@@ -1,0 +1,9 @@
+﻿  DVDCollectionMain.cpp
+c:\users\james_olney\desktop\stuff\dvdcollection\dvdcollection\dvdcollectionmain.cpp(121): warning C4018: '>': signed/unsigned mismatch
+c:\users\james_olney\desktop\stuff\dvdcollection\dvdcollection\dvdcollectionmain.cpp(124): warning C4018: '>': signed/unsigned mismatch
+c:\users\james_olney\desktop\stuff\dvdcollection\dvdcollection\dvdcollectionmain.cpp(171): warning C4018: '>': signed/unsigned mismatch
+c:\users\james_olney\desktop\stuff\dvdcollection\dvdcollection\dvdcollectionmain.cpp(174): warning C4018: '>': signed/unsigned mismatch
+c:\users\james_olney\desktop\stuff\dvdcollection\dvdcollection\dvdcollectionmain.cpp(203): warning C4018: '>': signed/unsigned mismatch
+c:\users\james_olney\desktop\stuff\dvdcollection\dvdcollection\dvdcollectionmain.cpp(206): warning C4018: '>': signed/unsigned mismatch
+  DVDCollection.vcxproj -> C:\Users\james_olney\Desktop\Stuff\DVDCollection\Debug\DVDCollection.exe
+  DVDCollection.vcxproj -> C:\Users\james_olney\Desktop\Stuff\DVDCollection\Debug\DVDCollection.pdb (Partial PDB)

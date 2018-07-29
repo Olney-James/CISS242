@@ -1,0 +1,33 @@
+﻿  MinMaxProject.cpp
+c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(27): warning C4661: 'MinMax<int>::MinMax(T,T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+  c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(22): note: see declaration of 'MinMax<int>::MinMax'
+c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(27): warning C4661: 'int MinMax<int>::minimum(void)': no suitable definition provided for explicit template instantiation request
+  c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(23): note: see declaration of 'MinMax<int>::minimum'
+c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(27): warning C4661: 'int MinMax<int>::maximum(void)': no suitable definition provided for explicit template instantiation request
+  c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(24): note: see declaration of 'MinMax<int>::maximum'
+c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(28): warning C4661: 'MinMax<double>::MinMax(T,T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=double
+          ]
+  c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(22): note: see declaration of 'MinMax<double>::MinMax'
+c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(28): warning C4661: 'double MinMax<double>::minimum(void)': no suitable definition provided for explicit template instantiation request
+  c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(23): note: see declaration of 'MinMax<double>::minimum'
+c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(28): warning C4661: 'double MinMax<double>::maximum(void)': no suitable definition provided for explicit template instantiation request
+  c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(24): note: see declaration of 'MinMax<double>::maximum'
+c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(29): warning C4661: 'MinMax<char>::MinMax(T,T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=char
+          ]
+  c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(22): note: see declaration of 'MinMax<char>::MinMax'
+c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(29): warning C4661: 'char MinMax<char>::minimum(void)': no suitable definition provided for explicit template instantiation request
+  c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(23): note: see declaration of 'MinMax<char>::minimum'
+c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(29): warning C4661: 'char MinMax<char>::maximum(void)': no suitable definition provided for explicit template instantiation request
+  c:\users\james_olney\desktop\stuff\school\minmaxproject\minmaxproject\minmax.h(24): note: see declaration of 'MinMax<char>::maximum'
+  MinMaxProject.vcxproj -> C:\Users\james_olney\Desktop\Stuff\School\MinMaxProject\Debug\MinMaxProject.exe
+  MinMaxProject.vcxproj -> C:\Users\james_olney\Desktop\Stuff\School\MinMaxProject\Debug\MinMaxProject.pdb (Full PDB)
